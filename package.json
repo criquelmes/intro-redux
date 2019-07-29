@@ -1,0 +1,22 @@
+{
+  "name": "intro-redux",
+  "version": "1.0.0",
+  "description": "Aprendiendo Redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/criquelmes/intro-redux.git"
+  },
+  "author": "Christopher Riquelme",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/criquelmes/intro-redux/issues"
+  },
+  "homepage": "https://github.com/criquelmes/intro-redux#readme",
+  "devDependencies": {
+    "redux": "^4.0.4"
+  }
+}
